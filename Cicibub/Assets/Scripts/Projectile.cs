@@ -7,6 +7,8 @@ public class Projectile : MonoBehaviour
 {
     public float speed;
     public float lifeTime;
+    public float distance;
+    public LayerMask whatIsSolid;
     
     private void Start()
     {
@@ -15,6 +17,17 @@ public class Projectile : MonoBehaviour
 
     private void Update()
     {
+        RaycastHit2D hitInfo = Physics2D.Raycast(transform.position, transform.up, distance, whatIsSolid);
+        if (hitInfo.collider != null)
+        {
+                if (hitInfo.collider.CompareTag("Enemy"))
+                {
+                    Debug.Log("Bine boss");
+                }
+                DestroyProjectile();
+                Debug.Log(hitInfo.collider.name);
+        }
+        
         transform.Translate(transform.up * speed * Time.deltaTime);
     }
 
