@@ -8,13 +8,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerAnimation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Dungeon Escape 2/Assets/Assets/Scripts/Enemy/MossGiant.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Enemy/Slime/Slime.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/zPressStart/MoveObjectRBDesktop.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../Dungeon Escape 2/Assets/Assets/Scripts/Enemy/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Weapon.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -22,8 +17,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/MoveShootRBDesktop.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Weapon.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/Slime/Slime.cs" />
       </list>
     </option>
   </component>
@@ -76,7 +69,6 @@
       <updated>1581523803878</updated>
       <workItem from="1581523813981" duration="403000" />
       <workItem from="1581524850158" duration="2527000" />
-      <workItem from="1581528856254" duration="2947000" />
     </task>
     <servers />
   </component>
@@ -85,10 +77,4 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
-  <component name="WindowStateProjectService">
-    <state x="1056" y="34" width="880" height="1017" key="dock-window-1" timestamp="1581531841736">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="1056" y="34" width="880" height="1017" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1581531841736" />
-  </component>
 </project>

@@ -1,38 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Cicibub.-480440300.00" t="ExcludeRecursive" />
-    <e p="D:\Unity Projects\Cicibub (1)\Cicibub" t="IncludeRecursive">
+    <e p="C:\+Folderu meu\_Unity shit\Cicibub" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="Enemy" t="Include">
-            <e p="Enemy.cs" t="Include" />
-            <e p="Slime" t="Include">
-              <e p="Slime.cs" t="Include" />
-            </e>
-          </e>
-          <e p="Player" t="Include">
-            <e p="Player.cs" t="Include" />
-            <e p="PlayerAnimation.cs" t="Include" />
-          </e>
           <e p="Projectile.cs" t="Include" />
           <e p="Weapon.cs" t="Include" />
-        </e>
-        <e p="Sprites" t="Include">
-          <e p="v1.1 dungeon crawler" t="Include">
-            <e p="v1.1 dungeon crawler" t="Include">
-              <e p="tiles" t="Include">
-                <e p="wall" t="Include">
-                  <e p="obs.txt" t="Include" />
-                </e>
-              </e>
-            </e>
-          </e>
-        </e>
-        <e p="zPressStart" t="Include">
-          <e p="MoveObjectRBDesktop.cs" t="Include" />
         </e>
       </e>
       <e p="Cicibub.sln" t="IncludeFlat" />
@@ -40,5 +14,7 @@
       <e p="Packages" t="ExcludeRecursive" />
       <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
+    <e p="C:\Users\Administrator\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Administrator\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Cicibub.1071700654.00" t="ExcludeRecursive" />
   </component>
 </project>
